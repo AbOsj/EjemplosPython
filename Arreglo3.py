@@ -10,4 +10,4 @@ suma=0
 for num in  arreglo:
     suma+= num
 print("La suma es", suma)
-print("La suma con la funcion sum", suma)
+print("La suma con la funcion sum", sum(arreglo))
